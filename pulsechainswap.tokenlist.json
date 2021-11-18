@@ -1,0 +1,56 @@
+{
+  "name": "Official List",
+  "timestamp": "2021-07-15T12:15:29.993Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": ["sushiswap", "default"],
+  "tokens": [
+    {
+      "name": "PulseChain Swap",
+      "address": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "symbol": "PCS",
+      "decimals": 18,
+      "chainId": 940
+    },
+    {
+      "name": "Wrapped PLS",
+      "address": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "symbol": "WPLS",
+      "decimals": 18,
+      "chainId": 940
+    },
+    {
+      "name": "USDC Coin",
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 940
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 940
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 940
+    },
+    {
+      "name": "Frax",
+      "address": "0x965f84D915a9eFa2dD81b653e3AE736555d945f4",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "chainId": 940
+    }
+  ]
+}
