@@ -1,4 +1,4 @@
-# solarbeam-tokenlist
+# pulsechainswap-tokenlist
 
 PulseChain Swap DEX - Token list
 
