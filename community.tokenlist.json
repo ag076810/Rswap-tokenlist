@@ -1,19 +1,19 @@
 {
   "name": "Community List",
-  "timestamp": "2021-07-15T12:15:29.993Z",
+  "timestamp": "2021-10-15T12:15:29.993Z",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-  "keywords": ["sushiswap", "default"],
+  "logoURI": "https://raw.githubusercontent.com/pulsechainswap/pulsechainswap-tokenlist/main/assets/pulsechain/0x15f75Fa15f4DA1EAC6470B3b8ec1258008C359eA/logo.png",
+  "keywords": ["PulseChainSwap", "default"],
   "tokens": [
     {
-      "name": "Hex",
-      "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
-      "symbol": "HEX",
+      "name": "PulseChainSwap Token",
+      "address": "0x15f75Fa15f4DA1EAC6470B3b8ec1258008C359eA",
+      "symbol": "PCS",
       "decimals": 18,
       "chainId": 940
     }

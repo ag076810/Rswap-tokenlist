@@ -1,56 +1,62 @@
 {
-  "name": "Official List",
-  "timestamp": "2021-07-15T12:15:29.993Z",
+  "name": "PulseChainSwap List",
+  "timestamp": "2021-10-15T12:15:29.993Z",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-  "keywords": ["sushiswap", "default"],
+  "logoURI": "https://raw.githubusercontent.com/pulsechainswap/pulsechainswap-tokenlist/main/assets/pulsechain/0x15f75Fa15f4DA1EAC6470B3b8ec1258008C359eA/logo.png",
+  "keywords": ["PulseChainSwap", "default"],
   "tokens": [
     {
-      "name": "PulseChain Swap",
-      "address": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "name": "PulseChainSwap Token",
+      "address": "0x15f75Fa15f4DA1EAC6470B3b8ec1258008C359eA",
       "symbol": "PCS",
       "decimals": 18,
-      "chainId": 940
+      "chainId": 940,
+      "logoURI": "https://testnet.pulsechainswap.org/icon.png"
     },
     {
-      "name": "Wrapped PLS",
-      "address": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "symbol": "WPLS",
+      "name": "Wrapped tPLS",
+      "address": "0xCeB5be5b915197eaFEf2eB93f554fb42Db66108a",
+      "symbol": "WtPLS",
       "decimals": 18,
-      "chainId": 940
+      "chainId": 940,
+      "logoURI": "https://testnet.pulsechainswap.org/images/tokens/pulsechain.png"
     },
     {
       "name": "USDC Coin",
-      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "symbol": "USDC",
       "decimals": 6,
-      "chainId": 940
+      "chainId": 940,
+      "logoURI": "https://testnet.pulsechainswap.org/images/tokens/usdc.png"
     },
     {
       "name": "Dai Stablecoin",
-      "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
       "symbol": "DAI",
       "decimals": 18,
-      "chainId": 940
+      "chainId": 940,
+      "logoURI": "https://testnet.pulsechainswap.org/images/tokens/dai.png"
     },
     {
       "name": "Tether USD",
-      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "symbol": "USDT",
       "decimals": 6,
-      "chainId": 940
+      "chainId": 940,
+      "logoURI": "https://testnet.pulsechainswap.org/images/tokens/usdt.png"
     },
     {
       "name": "Frax",
-      "address": "0x965f84D915a9eFa2dD81b653e3AE736555d945f4",
+      "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
       "symbol": "FRAX",
       "decimals": 18,
-      "chainId": 940
+      "chainId": 940,
+      "logoURI": "https://testnet.pulsechainswap.org/images/tokens/frax-canonical.png"
     }
   ]
 }
