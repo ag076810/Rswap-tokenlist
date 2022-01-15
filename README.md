@@ -1,6 +1,6 @@
-# pulsechainswap-tokenlist
+# raydex-tokenlist
 
-PulseChain Swap DEX - Token list
+Ray Dex - Token list
 
 Please note the current information in this repo is based on PulseChain testnet launch
 
@@ -8,7 +8,7 @@ Please note the current information in this repo is based on PulseChain testnet 
 
 - Fork this repo
   ```
-  gh repo clone pulsechainswap-tokenlist
+  gh repo clone raydex-tokenlist
   ```
 - Create a folder under _assets/{blockchainName}/{tokenAddress}_
 - Add token's icon (logo.png) under the folder created in the previous step

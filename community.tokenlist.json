@@ -8,7 +8,7 @@
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/pulsechainswap/pulsechainswap-tokenlist/main/assets/pulsechain/0x15f75Fa15f4DA1EAC6470B3b8ec1258008C359eA/logo.png",
-  "keywords": ["PulseChainSwap", "default"],
+  "keywords": ["RayDex", "default"],
   "tokens": [
     {
       "name": "PulseChainSwap Token",
