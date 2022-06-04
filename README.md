@@ -19,7 +19,7 @@ Please note the current information in this repo is based on PulseChain testnet 
       "address": [token_address],
       "symbol": [token_symbol],
       "decimals": [token_decimals],
-      "chainId": 940
+      "chainId": 941
   }
   ```
 - Make a Pull Request to this repo including all of the above.
