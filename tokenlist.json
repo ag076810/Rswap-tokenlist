@@ -1,0 +1,22 @@
+{
+  "name": "Rswap List",
+  "timestamp": "2023-9-15T12:15:29.993Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/raydex-org/raydex-tokenlist/main/assets/pulsechain/0xd13389089877f3ec67502873e393eC363C190d61/logo.png",
+  "keywords": ["Rswap", "default"],
+  "tokens": [
+    {
+      "name": "WRTH",
+      "address": "0x0000000000E3448F3b4f0a59cDd084689a8eA3cB",
+      "symbol": "WRTH",
+      "decimals": 18,
+      "chainId": 622277,
+      "logoURI": "https://www.rethereum.org/images/logo.png"
+    }
+  ]
+}
