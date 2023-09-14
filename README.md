@@ -1,8 +1,8 @@
-# raydex-tokenlist
+# Rswap-tokenlist
 
-Ray Dex - Token list
+Rswap - Token list
 
-Please note the current information in this repo is based on PulseChain testnet launch
+Please note the current information in this repo is based on RTH launch
 
 ### Whitelisting
 
@@ -19,7 +19,7 @@ Please note the current information in this repo is based on PulseChain testnet 
       "address": [token_address],
       "symbol": [token_symbol],
       "decimals": [token_decimals],
-      "chainId": 941
+      "chainId": 622277
   }
   ```
 - Make a Pull Request to this repo including all of the above.
